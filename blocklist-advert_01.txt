@@ -1,6 +1,6 @@
 # A list of advertisers taken from a very honest web site
 
-0.0.0.0 www.bing.com/api/v1
+0.0.0.0 www.bing.com
 0.0.0.0 trace.mediago.io
 0.0.0.0 adotmob.com
 0.0.0.0 docs.adotmob.com
