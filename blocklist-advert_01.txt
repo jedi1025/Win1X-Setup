@@ -1,5 +1,6 @@
 # A list of advertisers taken from a very honest web site
 
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 www.bing.com
 0.0.0.0 trace.mediago.io
 0.0.0.0 adotmob.com
